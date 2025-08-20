@@ -1,9 +1,7 @@
 
-<img align="right"  src="https://static.vecteezy.com/system/resources/thumbnails/066/428/966/small/purple-wave-gold-corner-accent-png.png" />   
+><br /><br /><br />
 
-<br /><br /><br /><br /><br /><br /><br />
-
-<h3 align="center"> Hi there 👋</h3>
+<h2 align="center"> Hi there 👋</h2>
 
 <br />
 
