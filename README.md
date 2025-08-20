@@ -1,24 +1,27 @@
 
 <img align="right"  src="https://static.vecteezy.com/system/resources/thumbnails/066/428/966/small/purple-wave-gold-corner-accent-png.png" />   
 
-<br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 <h3 align="center"> Hi there 👋</h3>
 
-<p >
+<br />
+
+<p align="center">
 <b>I'm Ramkumar</b>, 🌱 Software Engineer with a Master’s degree in Computer Applications.
 </p>
 
-<h4 >
+<h4 align="center">
 💻 Software Engineer <a href="https://www.in10stech.com">@Intense Technologies Limited</a> | 💬 Connect with me on LinkedIn <a href="https://linkedin.com/in/ram97510/">@ram </a>
 </h4>
 
-</br>
+<br />
 
-<p >
+<p align="center">
            📫 Reach me at Gmail
 <a href="mailto:ram97510@gmail.com" > ram97510@gmail.com</a>
 </p>
+
 <br />
 
 ### Professional Summary ⚡
