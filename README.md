@@ -47,8 +47,8 @@ My Tech Stacks
 
 </br>
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="43px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="43px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png" /></a>
 <a href="https://react.dev/" target="_blank"> <img align="left" alt="React" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/> </a>
 <a href="https://single-spa.js.org/" target="_blank"> <img align="left" alt="Single-SPA" width="40px" src="https://storage.googleapis.com/zenn-user-upload/topics/a53dd66fa6.png"/> </a>
@@ -59,14 +59,14 @@ My Tech Stacks
 <img align="left" alt="Docker" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Webpack" width="40px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" />
-<img align="left" alt="npm" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" />
+<img align="left" alt="npm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" />
 <img align="left" alt="ts" width="40px" src="https://cdn-icons-png.flaticon.com/256/5968/5968381.png" />
 
 <br />
 <br />
 <br />
 <details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+    <summary> <b>GitHub Stats</b> &#9889</summary><br/>
 
 ![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)
 
