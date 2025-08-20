@@ -1,8 +1,21 @@
 
-<h1 align="center">Hi 👋, I'm Ramkumar</h1>
-<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-           
 
+<h1 align="center">Hi 👋, I'm Ramkumar</h1>
+           
+<h3 align="center"> Hi there 👋</h3>
+
+<p align="center">
+I'm Ram, 🌱 Software Enginner with a masters degree in Computer Applications..
+</p>
+
+<h4 align="center">
+💻 Software Engineer <a href="https://www.in10stech.com">@Intense Technologies Limited</a> | 💬 connect <a href="https://linkedin.com/in/ram97510/">@ram <img align="left" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  /> </a>
+</h4>
+<p  align="center">
+<a href="https://github.com/ram97510/">https://akasrai.github.io</a>
+</p>
+
+<!--
 ### About Me 🚀
 🌱 I’m a Software Enginner with a masters degree in Computer Applications. </br>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. </br>
@@ -15,7 +28,7 @@
 </br>
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 </br>
-  
+  -->
 ### 💻 Tech Stack:
 
 
