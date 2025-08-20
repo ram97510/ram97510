@@ -1,45 +1,36 @@
 
 <img align="right"  src="https://static.vecteezy.com/system/resources/thumbnails/066/428/966/small/purple-wave-gold-corner-accent-png.png" />   
 
-</br></br></br>
+<br /><br /><br />
 
 <h3 align="center"> Hi there 👋</h3>
 
-<p align="center">
+<p >
 <b>I'm Ramkumar</b>, 🌱 Software Engineer with a Master’s degree in Computer Applications.
 </p>
 
-<h4 align="center">
+<h4 >
 💻 Software Engineer <a href="https://www.in10stech.com">@Intense Technologies Limited</a> | 💬 Connect with me on LinkedIn <a href="https://linkedin.com/in/ram97510/">@ram </a>
 </h4>
+
 </br>
 
-<p  align="center">
+<p >
            📫 Reach me at Gmail
 <a href="mailto:ram97510@gmail.com" > ram97510@gmail.com</a>
 </p>
+<br />
 
 ### Professional Summary ⚡
-</br>
+
+<br />
+
 Software Engineer with 1+ years of experience in developing and deploying scalable web 
 applications using React.js, REST APIs, PostgreSQL, and MongoDB. Skilled in micro-frontends Single
 SPA, Proxy configuration, and cross-functional collaboration to deliver end-to-end solutions. 
 
-<!--
-### About Me 🚀
-🌱 I’m a Software Enginner with a masters degree in Computer Applications. </br>
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things. </br>
-💻 I have honed my skills in designing and building modern web applications. </br>
 
-### My Experiences 🙌
-- [Software Engineer Intense Tech](https://www.in10stech.com/) - (Apr'24-Present)
-- [Software Engineer Trainee (Intern) Intense Tech](https://www.in10stech.com/) - (Feb'23-Mar'24)  </br>
-
-</br>
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
-</br>  -->
-
-</br>
+<br />
 
 <!-- <h3 align="center">
 My Tech Stacks
@@ -71,11 +62,11 @@ My Tech Stacks
 
 <br />
 <br />
-
+<br />
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)(https://github.com/warengonzaga/github-readme-stats)
+![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)
 
 </details>
 <br /><br />
