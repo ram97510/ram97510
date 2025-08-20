@@ -89,6 +89,6 @@ My Tech Stacks
   <img align="left" width="23px" src="https://cdn.simpleicons.org/gmail" />
 </a> -->
 
- <img width="100%" src="https://static.vecteezy.com/system/resources/thumbnails/017/220/012/small/abstract-floral-shape-for-ornament-design-png.png">  
+ <!-- <img width="100%" src="https://static.vecteezy.com/system/resources/thumbnails/017/220/012/small/abstract-floral-shape-for-ornament-design-png.png">  -->
 
-
+<img  src="https://static.vecteezy.com/system/resources/thumbnails/035/498/081/small/abstract-background-with-a-purple-gradient-theme-perfect-for-wallpaper-invitation-cards-envelopes-magazines-book-covers-png.png">
