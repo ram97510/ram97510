@@ -2,17 +2,17 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-<b>I'm Ramkumar</b>, 🌱 Software Enginner with a masters degree in Computer Applications.
+<b>I'm Ramkumar</b>, 🌱 Software Engineer with a Master’s degree in Computer Applications.
 </p>
 
 <h4 align="center">
-💻 Software Engineer <a href="https://www.in10stech.com">@Intense Technologies Limited</a> | 💬 connect with likedin <a href="https://linkedin.com/in/ram97510/">@ram </a>
+💻 Software Engineer <a href="https://www.in10stech.com">@Intense Technologies Limited</a> | 💬 Connect with me on LinkedIn <a href="https://linkedin.com/in/ram97510/">@ram </a>
 </h4>
 </br>
 
 <p  align="center">
-           Get in touch with Gmail 📫
-<a href="mailto:ram97510@gmail.com" > ram</a>
+           📫 Reach me at Gmail
+<a href="mailto:ram97510@gmail.com" > ram97510@gmail.com</a>
 </p>
 
 <!--
@@ -29,7 +29,8 @@
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 </br>  -->
 
-<br/>
+</br>
+
 <h3 align="center">
 My Tech Stacks
 </h3>
@@ -54,7 +55,7 @@ My Tech Stacks
 
 <br />
 <br /> -->
-
+⭐️ *“Passionate about building scalable web applications and exploring modern JavaScript frameworks.”*  
 <!--
 ## 📫 Get in touch
 
