@@ -1,4 +1,8 @@
-           
+
+<img align="right"  src="https://static.vecteezy.com/system/resources/thumbnails/066/428/966/small/purple-wave-gold-corner-accent-png.png" />   
+
+</br></br></br>
+
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
@@ -77,7 +81,6 @@ My Tech Stacks
 <br /><br />
 ⭐️ *“Passionate about building scalable web applications and exploring modern JavaScript frameworks.”*  
 
-<br /><br />
 
 <!--
 ## 📫 Get in touch
@@ -89,6 +92,6 @@ My Tech Stacks
   <img align="left" width="23px" src="https://cdn.simpleicons.org/gmail" />
 </a> -->
 
- <!-- <img width="100%" src="https://static.vecteezy.com/system/resources/thumbnails/017/220/012/small/abstract-floral-shape-for-ornament-design-png.png">  -->
+ <!-- <img width="100%" src="https://static.vecteezy.com/system/resources/thumbnails/017/220/012/small/abstract-floral-shape-for-ornament-design-png.png" />  -->
 
-<img  src="https://static.vecteezy.com/system/resources/thumbnails/035/498/081/small/abstract-background-with-a-purple-gradient-theme-perfect-for-wallpaper-invitation-cards-envelopes-magazines-book-covers-png.png">
+<img  src="https://static.vecteezy.com/system/resources/thumbnails/035/498/081/small/abstract-background-with-a-purple-gradient-theme-perfect-for-wallpaper-invitation-cards-envelopes-magazines-book-covers-png.png" />
