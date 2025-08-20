@@ -1,18 +1,18 @@
-
-
-<h1 align="center">Hi 👋, I'm Ramkumar</h1>
            
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Ram, 🌱 Software Enginner with a masters degree in Computer Applications..
+<b>I'm Ramkumar</b>, 🌱 Software Enginner with a masters degree in Computer Applications.
 </p>
 
 <h4 align="center">
-💻 Software Engineer <a href="https://www.in10stech.com">@Intense Technologies Limited</a> | 💬 connect <a href="https://linkedin.com/in/ram97510/">@ram <img align="left" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  /> </a>
+💻 Software Engineer <a href="https://www.in10stech.com">@Intense Technologies Limited</a> | 💬 connect with likedin <a href="https://linkedin.com/in/ram97510/">@ram </a>
 </h4>
+</br>
+
 <p  align="center">
-<a href="https://github.com/ram97510/">https://akasrai.github.io</a>
+           Get in touch with Gmail 📫
+<a href="mailto:ram97510@gmail.com" > ram</a>
 </p>
 
 <!--
@@ -27,8 +27,18 @@ I'm Ram, 🌱 Software Enginner with a masters degree in Computer Applications..
 
 </br>
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
-</br>
-  -->
+</br>  -->
+
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
+
+<!--
 ### 💻 Tech Stack:
 
 
@@ -43,8 +53,9 @@ I'm Ram, 🌱 Software Enginner with a masters degree in Computer Applications..
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
-<br />
+<br /> -->
 
+<!--
 ## 📫 Get in touch
 
 <a href="https://linkedin.com/in/ram97510/">
@@ -54,6 +65,6 @@ I'm Ram, 🌱 Software Enginner with a masters degree in Computer Applications..
   <img align="left" width="23px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
 
