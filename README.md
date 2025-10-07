@@ -27,9 +27,7 @@
 
 <br />
 
-Software Engineer with 1+ years of experience in developing and deploying scalable web 
-applications using React.js, REST APIs, PostgreSQL, and MongoDB. Skilled in micro-frontends Single
-SPA, Proxy configuration, and cross-functional collaboration to deliver end-to-end solutions. 
+Full stack developer with over two years of experience building and maintaining responsive websites and web applications. Adept at both front-end and back-end development using technologies such as React.js, Express js, REST APIs, PostgreSQL, and MongoDB. Skilled in micro-frontends (Single-SPA), proxy configuration. Experienced in building low-code drag-and-drop platforms. Adept at cross-functional collaboration, AI-driven solutions and end-to-end product development.. 
 
 
 <br />
